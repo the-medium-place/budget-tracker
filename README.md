@@ -6,7 +6,7 @@ This app allows a user to log withdrawls and deposits while online and offline. 
 ![Budget Tracker Screenshot](readme_image\screenshot.png)
 
 ## Usage: 
-Visit the deployed app HERE
+Visit the deployed app [HERE](https://awesome-budget-tracker.herokuapp.com/)
 
 ## Questions:
 * GitHub Profile:  [the-medium-place](https://github.com/the-medium-place)
